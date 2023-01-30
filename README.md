@@ -1,3 +1,5 @@
+<img src="banner.png" width="600"/>
+
 ## What is Quimify?
 
 Quimify is a user-friendly, educational mobile app designed to assist high school students in solving chemical nomenclature. 
@@ -5,11 +7,11 @@ With hundreds of thousands of downloads and tens of thousands of monthly active 
 It's currently available both on Google Play and Apple App Store.
 
 Features:
-- Look up inorganic compounds by formula or name to get formula, names, and characteristics.
-- Write organic names to get their semi-developed structure, molecular mass, and 2D diagram.
-- Input organic structures visually to get their IUPAC name, molecular mass, and 2D diagram.
-- Calculate molecular masses from a formula or structure and visualize their grams and molar proportions.
-- More to come.
+- :mag: Look up inorganic compounds by formula or name to get formula, names, and characteristics.
+- :pencil2: Write organic names to get their semi-developed structure, molecular mass, and 2D diagram.
+- :calling:&nbsp; Input organic structures visually to get their IUPAC name, molecular mass, and 2D diagram.
+- :bulb:&nbsp; Calculate molecular masses from formulas and visualize their molar and mass proportions.
+- :tada: More to come!
 
 Get it at: [quimify.com](https://quimify.com/)
 
