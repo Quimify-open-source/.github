@@ -13,7 +13,7 @@ Features:
 - :bulb:&nbsp; Calculate molecular masses from formulas and visualize their molar and mass proportions.
 - :tada: More to come!
 
-Get it at: [quimify.com](https://quimify.com/)
+Check it out at: [quimify.com](https://quimify.com/)
 
 ---
 
