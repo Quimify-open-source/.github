@@ -1,4 +1,4 @@
-<img src="banner.png" width="600"/>
+<img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/banner.png" width="600"/>
 
 ## What is Quimify?
 
