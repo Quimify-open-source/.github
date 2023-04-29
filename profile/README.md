@@ -3,7 +3,7 @@
 ## What is Quimify?
 
 Quimify is a user-friendly, educational mobile app designed to assist high school students in solving chemical nomenclature. 
-With hundreds of thousands of downloads and tens of thousands of monthly active users, it's the go-to resource for many students. 
+With hundreds of thousands of downloads and active users, it's the go-to resource for many students. 
 It's currently available both on Google Play and Apple App Store.
 
 Features:
