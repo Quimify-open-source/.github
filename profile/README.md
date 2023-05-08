@@ -26,16 +26,6 @@ Discover more about us at: [quimify.com/equipo](https://quimify.com/equipo/)
 
 ---
 
-## Why open source?
-
-We at Quimify are firm believers in the concept of open source and the benefits it brings to the community. 
-By making our code freely available to everyone, we hope to foster collaboration and creativity in the field. 
-We are committed to contributing to the open source ecosystem and look forward to being a part of this thriving community.
-
-Learn more at: [quimify.com/open-source](https://quimify.com/open-source/)
-
----
-
 ## How to reach us?
 
 Contact us at: [quimify.com/contacto](https://quimify.com/contacto/)
