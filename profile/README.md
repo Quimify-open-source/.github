@@ -11,7 +11,7 @@ It's currently available both on Google Play and App Store.
   <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-3.jpg" width="30%" alt="Molecular mass result screenshot"/>
 </div>
 
-Features:
+## Features
 - :mag: Look up inorganic compounds by formula or name to get formula, names, and characteristics.
 - :pencil2: Write organic names to get their semi-developed structure, molecular mass, and 2D diagram.
 - :calling:&nbsp; Input organic structures visually to get their IUPAC name, molecular mass, and 2D diagram.
