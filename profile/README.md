@@ -1,10 +1,15 @@
-<img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/banner.png" width="600"/>
+<img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/banner.png" width="600" alt="Quimify banner"/>
 
 ## What is Quimify?
 
-Quimify is a user-friendly, educational mobile app designed to assist high school students in solving chemical nomenclature. 
-With hundreds of thousands of downloads and active users, it's the go-to resource for many students. 
-It's currently available both on Google Play and Apple App Store.
+Quimify is an educational mobile app that makes chemistry intuitive for +1M high school students.
+It's currently available both on Google Play and App Store.
+
+<div>
+  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-1.jpg" width="30%" alt="Organic naming screenshot"/>
+  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-2.jpg" width="30%" alt="Organic naming result screenshot"/>
+  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-3.jpg" width="30%" alt="Molecular mass result screenshot"/>
+</div>
 
 Features:
 - :mag: Look up inorganic compounds by formula or name to get formula, names, and characteristics.
