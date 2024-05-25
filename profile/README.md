@@ -2,8 +2,7 @@
 
 ## What is Quimify?
 
-Quimify is an educational mobile app that makes chemistry intuitive for +1M high school students.
-It's currently available both on Google Play and App Store.
+Quimify is an educational mobile app that makes chemistry easy for +1M high school students.
 
 <div>
   <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-0.png" width="30%" alt="Organic naming screenshot"/>
