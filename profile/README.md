@@ -6,9 +6,9 @@ Quimify is an educational mobile app that makes chemistry intuitive for +1M high
 It's currently available both on Google Play and App Store.
 
 <div>
-  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-1.jpg" width="30%" alt="Organic naming screenshot"/>
-  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-2.jpg" width="30%" alt="Organic naming result screenshot"/>
-  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-3.jpg" width="30%" alt="Molecular mass result screenshot"/>
+  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-0.png" width="30%" alt="Organic naming screenshot"/>
+  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-1.png" width="30%" alt="Organic naming result screenshot"/>
+  <img src="https://raw.githubusercontent.com/quimifyapp/.github/main/profile/images/screenshot-2.png" width="30%" alt="Organic 3D molecule screenshot"/>
 </div>
 
 ## Features
