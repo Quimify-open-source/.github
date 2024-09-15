@@ -21,15 +21,6 @@ Check it out at: [quimify.com](https://quimify.com/)
 
 ---
 
-## Who is Quimify?
-
-As of now, all members of Quimify are driven college students, united in our passion for creating meaningful projects. 
-Our enthusiasm drives us to tackle exciting challenges and bring our ideas to life.
-
-Discover more about us at: [quimify.com/team](https://quimify.com/team/)
-
----
-
 ## How to reach us?
 
 Contact us at: [quimify.com/contact](https://quimify.com/contact/)
